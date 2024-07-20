@@ -1,10 +1,4 @@
-# AI personalised Fitness Web App
-
-This is a web application that utilizes Mediapipe, OpenCV, and Python to provide real-time feedback on your warrior pose. The app is designed to help you exercise better by giving you instant feedback on your pose and suggesting improvements.
-
-This is a web application that utilizes Mediapipe, OpenCV, and Python to provide real-time feedback on your warrior pose. The app is designed to help you exercise better by giving you instant feedback on your pose and suggesting improvements.
-
-This application is developed with a `social cause` in mind, aiming to provide access to fitness training for individuals who may not have the resources or opportunities to hire expensive fitness trainers. It is particularly beneficial for individuals with unpredictable schedules such as `housemakers`, people who are unable to travel and need light exercise such as `old-aged people`, and those living in remote areas. By exercising regularly using this app, users can reduce the risk of diseases like osteoporosis, bone diseases, diabetes, abdominal obesity and other diseases due to lack of activity.
+Fitness Web App
 
 ## Features
 
